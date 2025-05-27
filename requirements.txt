@@ -1,0 +1,7 @@
+ipywidgets
+openai
+PyMuPDF
+beautifulsoup4
+pyyaml
+jupyter
+voila
